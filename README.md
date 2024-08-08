@@ -22,8 +22,8 @@ This project was bootstrapped with [Create React App](https://create-react-app.d
 Run Station with the following commands:
 
 ```
-git clone https://github.com/terra-money/station.git
-cd station
+git clone https://github.com/classiccrypt0/classic-station.git
+cd classic-station
 npm i
 npm run start
 ```
